@@ -2,7 +2,7 @@
 
 ## Description
 
-Refractored a website's code to make it cleaner to read and understand, while keeping the format of the website exactly identical.
+Refractored a website "Horiseon"'s code to make it easier to read and understand (HTML5), while keeping the layout of the website exactly identical.
 
 ## Credits
 

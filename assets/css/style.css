@@ -73,7 +73,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* consolidated elements class title changed */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,7 +99,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* consolidated code of info changed */
 .titles {
     margin-bottom: 20px;
     padding: 50px;
